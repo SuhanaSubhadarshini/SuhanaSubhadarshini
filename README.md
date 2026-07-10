@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a3a,60:0d3347,100:0d1117&height=240&section=header&text=Suhana%20Subhadarshini&fontSize=56&fontColor=7dd3fc&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%E2%80%94%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=58&descSize=17&descColor=bae6fd" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a3a,60:0d3347,100:0d1117&height=240&section=header&text=Suhana%20Subhadarshini&fontSize=58&fontColor=7dd3fc&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%E2%80%94%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=58&descSize=17&descColor=bae6fd" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=3000&pause=1200&color=7dd3fc&center=true&vCenter=true&width=700&lines=AI+Engineer;Building+ML+Applications+with+Python;Scikit-learn+%7C+XGBoost+%7C+Streamlit;Turning+Data+into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=3000&pause=1200&color=7dd3fc&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Machine+Learning;Turning+Data+into+Decisions;Python+%7C+Scikit-learn+%7C+XGBoost+%7C+Streamlit" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -52,7 +52,7 @@ const suhana = {
 ## 🚀 Featured Projects
 
 ### 🫀 Heart Disease Prediction
-> Predicts the likelihood of heart disease using XGBoost and Logistic Regression, wrapped in an interactive Streamlit interface.
+Machine learning web application that predicts the likelihood of heart disease using XGBoost and Logistic Regression with an interactive Streamlit interface.
 
 <div align="center">
 
@@ -71,7 +71,7 @@ const suhana = {
 ---
 
 ### 🎓 Student Performance Prediction
-> Predicts students' exam performance based on academic, lifestyle, and demographic features.
+ML model that predicts students' exam performance based on academic, lifestyle, and demographic features.
 
 <div align="center">
 
@@ -90,7 +90,7 @@ const suhana = {
 ---
 
 ### 📉 Customer Churn Prediction
-> Predicts whether a telecom customer is likely to churn, using customer behavior and subscription data. Built with Python, Scikit-learn, Pandas, and Streamlit.
+Machine learning application that predicts whether a customer is likely to leave a telecom service using customer behavior and subscription data. Built with Python, Scikit-learn, Pandas, and Streamlit.
 
 <div align="center">
 
@@ -120,28 +120,28 @@ const suhana = {
 <p>
   <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="46" />
   &nbsp;
-  <img src="https://img.shields.io/badge/-XGBoost-0a2a3a?style=flat-square&logoColor=7dd3fc&labelColor=0a2a3a&color=0a2a3a" height="46" />
-  <img src="https://img.shields.io/badge/-Pandas-0a2a3a?style=flat-square&logo=pandas&logoColor=7dd3fc&labelColor=0a2a3a" height="46" />
-  <img src="https://img.shields.io/badge/-NumPy-0a2a3a?style=flat-square&logo=numpy&logoColor=7dd3fc&labelColor=0a2a3a" height="46" />
-  <img src="https://img.shields.io/badge/-Matplotlib-0a2a3a?style=flat-square&logoColor=7dd3fc&labelColor=0a2a3a" height="46" />
-  <img src="https://img.shields.io/badge/-Seaborn-0a2a3a?style=flat-square&logoColor=7dd3fc&labelColor=0a2a3a" height="46" />
+  <img src="https://img.shields.io/badge/-XGBoost-0a2a3a?style=flat-square&logoColor=7dd3fc" height="46" />
+  <img src="https://img.shields.io/badge/-Pandas-0a2a3a?style=flat-square&logo=pandas&logoColor=7dd3fc" height="46" />
+  <img src="https://img.shields.io/badge/-NumPy-0a2a3a?style=flat-square&logo=numpy&logoColor=7dd3fc" height="46" />
+  <img src="https://img.shields.io/badge/-Matplotlib-0a2a3a?style=flat-square&logoColor=7dd3fc" height="46" />
+  <img src="https://img.shields.io/badge/-Seaborn-0a2a3a?style=flat-square&logoColor=7dd3fc" height="46" />
 </p>
 
 ### Web Frameworks
 <p>
-  <img src="https://img.shields.io/badge/-Streamlit-0a2a3a?style=flat-square&logo=streamlit&logoColor=7dd3fc&labelColor=0a2a3a" height="46" />
-</p>
-
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/-SQL%20(Basic)-0a2a3a?style=flat-square&logo=mysql&logoColor=7dd3fc&labelColor=0a2a3a" height="46" />
+  <img src="https://img.shields.io/badge/-Streamlit-0a2a3a?style=flat-square&logo=streamlit&logoColor=7dd3fc" height="46" />
 </p>
 
 ### Dev Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="46" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
   &nbsp;
-  <img src="https://img.shields.io/badge/-Jupyter%20Notebook-0a2a3a?style=flat-square&logo=jupyter&logoColor=7dd3fc&labelColor=0a2a3a" height="46" />
+  <img src="https://img.shields.io/badge/-Jupyter%20Notebook-0a2a3a?style=flat-square&logo=jupyter&logoColor=7dd3fc" height="46" />
+</p>
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/-SQL%20(Basic)-0a2a3a?style=flat-square&logo=mysql&logoColor=7dd3fc" height="46" />
 </p>
 
 ---
@@ -174,6 +174,21 @@ const suhana = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuhanaSubhadarshini&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=bae6fd&area=true&hide_border=false&border_color=7dd3fc&area_color=0a2a3a" />
+</div>
+
+---
+
+## 🐍 Contributions Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/SuhanaSubhadarshini/SuhanaSubhadarshini/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/SuhanaSubhadarshini/SuhanaSubhadarshini/output/github-snake.svg" />
+    <img alt="GitHub contribution snake"
+         src="https://raw.githubusercontent.com/SuhanaSubhadarshini/SuhanaSubhadarshini/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
